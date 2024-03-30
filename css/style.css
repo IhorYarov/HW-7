@@ -1,7 +1,8 @@
 /* the style of my website */
-a:link {
+li a[href^="https"] {
    color: red;
 }
-p {
-   height: 24px;
-}
+ul+p {
+    font-size: 24px;
+ }
+ 
