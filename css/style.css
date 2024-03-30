@@ -1,8 +1,7 @@
 /* the style of my website */
-.http1,
-.http2 {
-    color: red;
- }
- .p1 {
-    height: 24px;
- }
+a:link {
+   color: red;
+}
+p {
+   height: 24px;
+}
